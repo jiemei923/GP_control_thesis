@@ -1,4 +1,4 @@
-# GP_control_thesisub
+# GP_control_thesis
 Code using in thesis
 
 In simulation file:
