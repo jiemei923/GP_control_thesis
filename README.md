@@ -1,4 +1,4 @@
-# doc2github
+# GP_control_thesisub
 Code using in thesis
 
 In simulation file:
