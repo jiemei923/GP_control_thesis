@@ -1,5 +1,5 @@
 # doc2github
-references and code using in thesis
+Code using in thesis
 
 In simulation file:
 - `main.m`: Simulation code for the proposed event-triggered online learning control method.
